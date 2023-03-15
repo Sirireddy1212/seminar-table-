@@ -1,0 +1,30 @@
+table,td, th{
+   border: rgb(217, 255, 192);
+   border-collapse: collapse;
+   padding: 10px;
+   
+   
+}
+
+
+ th{
+    background-color: rgb(36, 35, 35);
+    color:white;
+ }
+ 
+ table{
+   border: 5px solid rgb(151, 108, 215);
+ }
+ 
+ tr{
+  background-color: black;
+  color:white;
+ }
+
+ body{
+   background-color: rgb(240, 238, 236);
+ }
+ 
+ tr:nth-child(even){
+   background-color: grey;
+}
